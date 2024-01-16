@@ -1,0 +1,40 @@
+.labeltext{
+    color: brown;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+    
+}
+
+.container{
+    
+}
+
+.innertext{
+    color: blue;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+button{
+    height: 2rem;
+    width: 8rem;
+    border-radius: 10px;
+    background-color: rgb(58, 58, 248);
+    margin: 1rem 0.25rem;
+    color: white;
+}
+
+input{
+    height: 1.5rem;
+    width: 10rem;
+    border-radius: 5px;
+   padding-left: 0.5rem;
+}
+
+.container-form{
+    display: flex;
+    gap: 2rem;
+}
